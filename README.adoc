@@ -8,7 +8,7 @@
 
 == Intro
 
-Godot engine has rock solid built-in editor but I still feel more comfortable
+Godot engine Is really cool, and has rock solid built-in editor but I still feel more comfortable
 within my (g)(n)vim environment.
 
 This plugin provides:
